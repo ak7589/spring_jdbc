@@ -1,6 +1,6 @@
 package com.pluralsight.corejava.collections;
 
-import static org.junit.Assert.assertTrue;
+
 
 import java.util.ArrayList;
 import java.util.List;
